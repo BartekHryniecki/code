@@ -1,0 +1,12 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "cs50.h": "c",
+        "string": "c",
+        "typeinfo": "c",
+        "random": "c",
+        "recover2": "c",
+        "stdlib.h": "c"
+    },
+    "workbench.colorTheme": "GitHub Dark Default"
+}
